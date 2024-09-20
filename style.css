@@ -53,7 +53,7 @@ nav ul li a:hover {
 
 #hero {
     height: 600px;
-    background-image: url('https://via.placeholder.com/1920x600');
+    background-image: url('images/hero-image.jpg');
     background-size: cover;
     background-position: center;
     color: white;
